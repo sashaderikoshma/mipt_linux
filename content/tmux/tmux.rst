@@ -195,13 +195,9 @@ rename-session –t 0 masinc»
 
 .. code:: bash
 
-    ctrl + b 
+    ctrl + b c
 
-.. code:: bash
-
-    c
-
-переименовать файл можно:
+переименовать сессию можно:
 
 .. code:: bash
 
